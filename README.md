@@ -25,7 +25,8 @@ In this part we import different libraries, then read CSV file, set index_col to
  
  by eye balling the describe method, the Data isn't evenly distributed so I had to scale it by using StandardScaler module, fit_tranform 
  Data.
-  ![Screenshot 2022-08-24 222036](https://user-images.githubusercontent.com/69637182/186573971-f3c386b9-d77d-4416-9b2a-52d25c4195ec.png)
+ ![Screenshot 2022-08-24 222036](https://user-images.githubusercontent.com/69637182/186573971-f3c386b9-d77d-4416-9b2a-52d25c4195ec.png)
+  
  
  ## kmeans
  

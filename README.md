@@ -6,13 +6,14 @@
  ![Screenshot 2022-08-24 221903](https://user-images.githubusercontent.com/69637182/186573966-89358834-077f-4bfd-aaa2-31a6e33f70b5.png)
  
  The resolve this challenge we need to follow these steps:
- ![Screenshot 2022-08-24 222036](https://user-images.githubusercontent.com/69637182/186573971-f3c386b9-d77d-4416-9b2a-52d25c4195ec.png)
+ 
  Import the Data,Prepare the Data, find the best Kmeans with original Data, minimize Data by using Principal component Analysis then the best   K using PCA Data Clusters.
  at the end Visualize and compare the results
  
  # Import The Data
 In this part we import different libraries, then read CSV file, set index_col to 'coin_id' after we got a new DataFrame.
  apply info, describe methods to see how Data distributed after with hvplot to plot and visualize our new DataFrame
+ ![Screenshot 2022-08-24 222036](https://user-images.githubusercontent.com/69637182/186573971-f3c386b9-d77d-4416-9b2a-52d25c4195ec.png)
  ![Screenshot 2022-08-24 222036](https://user-images.githubusercontent.com/69637182/186573971-f3c386b9-d77d-4416-9b2a-52d25c4195ec.png)
 ![bokeh_plot](https://user-images.githubusercontent.com/69637182/186573949-560ec506-173b-4103-9b72-09ea8d7315cc.png)
 

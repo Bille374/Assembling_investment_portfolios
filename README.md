@@ -53,4 +53,6 @@ By using elbow method for finding the best k: for loop 1 to 11.
 Answer: 4 Question: Does it differ from the best k value found using the original data?
 
 Answer: No, the best k value does not change. However, 4 has dropped 25 points on the inertia scale.
+![Screenshot 2022-08-24 232809](https://user-images.githubusercontent.com/69637182/186575228-1b424844-137c-4b7f-a67e-1d60508b880e.png)
+![Screenshot 2022-08-24 232827](https://user-images.githubusercontent.com/69637182/186575221-911167ae-ba8b-4d31-a771-3ff2c6c24c7d.png)
 

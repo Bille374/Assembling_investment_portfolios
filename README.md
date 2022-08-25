@@ -14,7 +14,7 @@
 In this part we import different libraries, then read CSV file, set index_col to 'coin_id' after we got a new DataFrame.
  apply info, describe methods to see how Data distributed after with hvplot to plot and visualize our new DataFrame
  ![Screenshot 2022-08-24 222036](https://user-images.githubusercontent.com/69637182/186573971-f3c386b9-d77d-4416-9b2a-52d25c4195ec.png)
- ![Screenshot 2022-08-24 222036](https://user-images.githubusercontent.com/69637182/186573971-f3c386b9-d77d-4416-9b2a-52d25c4195ec.png)
+
 ![bokeh_plot](https://user-images.githubusercontent.com/69637182/186573949-560ec506-173b-4103-9b72-09ea8d7315cc.png)
 
 
@@ -25,6 +25,7 @@ In this part we import different libraries, then read CSV file, set index_col to
  
  by eye balling the describe method, the Data isn't evenly distributed so I had to scale it by using StandardScaler module, fit_tranform 
  Data.
+  ![Screenshot 2022-08-24 222036](https://user-images.githubusercontent.com/69637182/186573971-f3c386b9-d77d-4416-9b2a-52d25c4195ec.png)
  
  ## kmeans
  
